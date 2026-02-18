@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
+  <img src="assets/banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
 </p>
 
 
