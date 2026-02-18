@@ -49,8 +49,8 @@ This project analyzes **Texas Medicaid and CHIP child enrollment trends (Sep 201
 Texas-Medicaid-CHIP-Enrollment-Trends-2014-2025/
 ├─ README.md
 ├─ sql/
-│  ├─ 01_data_cleaning_and_views.sql   ← cleaning + final views (the script we polished)
-│  └─ 02_analytical_queries.sql        ← your 15 questions (this script)
+│  ├─ 01_data_cleaning_and_views.sql   
+│  └─ 02_analytical_queries.sql        
 ├─ powerbi/
 │  └─ texas_medicaid_chip_enrollment.pbix
 └─ assets/
